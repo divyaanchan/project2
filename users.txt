@@ -1,0 +1,5 @@
+jo5GD5NTgwY8MMA90Z3mON4/GxhCRCuebIJH9jdz
+
+AKIAXA46VMLGZTAOFHVL
+
+arn:aws:cloudformation:us-west-2:482979701453:stack/network/1ddd3c40-53bb-11eb-92b7-063e517e1121
